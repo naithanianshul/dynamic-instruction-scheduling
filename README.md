@@ -1,6 +1,11 @@
 # Dynamic Instruction Scheduling
  A simulator for an out-of-order superscalar processor that fetches and issues N instructions per cycle and models the dynamic scheduling mechanism by assuming perfect caches and perfect branch prediction.
 
+The processor has a Reorder Buffer, Issue Queue, Rename Map Table, and Architectural Register File.
+The implemented pipeline and ROB, IQ, RMT, and ARF structures are as below.
+
+![Alt text](Pipeline \and \Structures.png?raw=true "Optional Title")
+
 To run the simulator first compile the code by executing the command 'make'.<br/>
 The format of the command to run the branch prediction simulator is:
 
