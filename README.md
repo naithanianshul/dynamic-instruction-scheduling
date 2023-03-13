@@ -4,7 +4,7 @@
 The processor has a Reorder Buffer, Issue Queue, Rename Map Table, and Architectural Register File.
 The implemented pipeline and ROB, IQ, RMT, and ARF structures are as below.
 
-![Alt text](Pipeline_and_Structures.png?raw=true "Pipeline and Structures")
+<img width="875" alt="Pipeline_and_Structures" src="https://user-images.githubusercontent.com/39558258/224788081-41457ec1-6bbf-4de2-b1b0-7983136a616e.png">
 
 To run the simulator first compile the code by executing the command 'make'.<br/>
 The format of the command to run the branch prediction simulator is:
