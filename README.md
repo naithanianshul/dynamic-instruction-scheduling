@@ -11,9 +11,9 @@ The format of the command to run the branch prediction simulator is:
 
 * To run Bimodal Predictor -
 >./sim<br/>
->&emsp;&emsp;< ROB_SIZE ><br/>
->&emsp;&emsp;< IQ_SIZE ><br/>
->&emsp;&emsp;< WIDTH ><br/>
+>&emsp;&emsp;<ROB_SIZE><br/>
+>&emsp;&emsp;<IQ_SIZE><br/>
+>&emsp;&emsp;<WIDTH><br/>
 >&emsp;&emsp;<trace_file><br/>
 
 Example - The processor specifications are:
